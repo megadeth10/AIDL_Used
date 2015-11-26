@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">stubservice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="preview"><![CDATA["<<"]]></string>
+	<string name="next"><![CDATA[">>"]]></string>
+	<string name="start"><![CDATA[">"]]></string>
+	<string name="pause"><![CDATA["="]]></string>
+	<string name="stop"><![CDATA["ㅁ"]]></string>
+</resources>
